@@ -31,7 +31,8 @@
 4. Run all cells (requires WRDS credentials).
 
 ## 6. Demo Video
-[Click here for demo video](https://your-video-link.com)
+[Click here for demo video]( https://b23.tv/UGqFFUS
+)
 
 ## 7. Limitations & Next Steps
 - Only stock returns, no fundamental data (revenue, profit).
